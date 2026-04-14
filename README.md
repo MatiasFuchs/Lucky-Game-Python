@@ -1,4 +1,4 @@
-# Lucky Game 🎲
+# Lucky Game
 
 ---
 
